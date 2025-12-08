@@ -10,14 +10,6 @@ This folder contains my digital logic design projects implemented on the **Digil
 * **[02-Button-Debouncer](./02-Button-Debouncer)**
   An input processing module that filters noise from mechanical buttons and detects signal edges (rising/falling) for stable user input.
 
-* **[03-Seven-Segment-Driver](./03-Seven-Segment-Driver)**
-  A display controller that uses Time-Division Multiplexing (TDM) to drive the 4-digit 7-segment display efficiently.
-
-* **[04-UART-Communication](./04-UART-Communication)**
-  A custom Serial Communication interface (Transmitter & Receiver) designed to exchange data between the FPGA and a PC via USB.
-
----
-
 ## Upcoming Projects (Roadmap)
 
 * **PWM LED Dimmer:** Generating Pulse Width Modulation signals for brightness control.
